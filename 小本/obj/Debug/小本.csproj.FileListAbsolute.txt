@@ -1,0 +1,10 @@
+G:\visual stadio workspace\小本\小本\bin\Debug\小本.exe.config
+G:\visual stadio workspace\小本\小本\bin\Debug\小本.exe
+G:\visual stadio workspace\小本\小本\bin\Debug\小本.pdb
+G:\visual stadio workspace\小本\小本\obj\Debug\小本.csprojResolveAssemblyReference.cache
+G:\visual stadio workspace\小本\小本\obj\Debug\小本.CreateWorkspaceForm.resources
+G:\visual stadio workspace\小本\小本\obj\Debug\小本.Form1.resources
+G:\visual stadio workspace\小本\小本\obj\Debug\小本.Properties.Resources.resources
+G:\visual stadio workspace\小本\小本\obj\Debug\小本.csproj.GenerateResource.Cache
+G:\visual stadio workspace\小本\小本\obj\Debug\小本.exe
+G:\visual stadio workspace\小本\小本\obj\Debug\小本.pdb
